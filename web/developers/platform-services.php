@@ -27,7 +27,7 @@
         </li>
         <li>
             <strong>Simplified air-to-ground communications</strong><br>
-            The iJet Platform provides an abstract, message-based communications service to allow applications to communicate between onboard and offboard endpoints. iJet’s Multi-Link Communications Manager minimizes the complexity of mobile air/ground communications from application developers, while ensuring lowest cost, fastest possible communication across the entire landscape of aviation datalinks.
+            The iJet Platform provides an abstract, message-based communications service to allow applications to communicate between onboard and offboard endpoints. iJet’s Multi-Link Communications Manager minimizes the complexity of mobile air/ground communications from application developers, ensuring the lowest cost, and fastest possible communication across the entire landscape of aviation datalinks.
         </li>
         <li>
             <strong>Low-latency access to aircraft data</strong><br>
@@ -36,7 +36,6 @@
         <li>
             <strong>Standardized health, status, and service management</strong><br>
             The iJet Platform centralizes all log events, applies filters, and notifies ground-based operators of the most urgent issues. Active monitoring functions on the iJet Platform integrate similarly with the central logging system to provide a robust external assessment of application health and status.
-        <li>
         <li>
             <strong>Remote software update capabilities</strong>
             The iJet Platform implements policy-driven configuration management, both for onboard and offboard components. This configuration management function provides iJet operators the ability to safely and remotely update software and configurations on the airplane, with roll-back in case of failure.

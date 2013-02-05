@@ -46,9 +46,9 @@ EOF;
                     Our platform provides:
                 </p>
                 <ul class="bulleted">
-                    <li>Greatly enhanced onboard data collection.</li>
-                    <li>A stable interface to the aircraft core systems.</li>
-                    <li>Multi link management tools.</li>
+                    <li>Greatly enhanced onboard data collection</li>
+                    <li>A stable interface to the aircraft core systems</li>
+                    <li>Multi link management tools</li>
                 </ul>
             </div>
         </div>
@@ -65,9 +65,9 @@ EOF;
                     Installed onboard the aircraft, it performs the following functions within our platform:
                 </p>
                 <ul class="bulleted">
-                    <li>Application platform for onboard computing capacity to provide web servers, applications and API access to aircraft data.</li>
-                    <li>Interface with the connectivity package.</li>
-                    <li>Communication server for airplane systems and sensors.</li>
+                    <li>Application platform for onboard computing capacity to provide web servers, applications and API access to aircraft data</li>
+                    <li>Interface with the connectivity package</li>
+                    <li>Communication server for airplane systems and sensors</li>
                 </ul>
             </div>
         </div>
