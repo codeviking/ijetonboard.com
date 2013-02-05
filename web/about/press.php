@@ -73,7 +73,7 @@ EOF;
     <section>
         <a name="top"></a><h1>Press</h1>
         <div style="position: relative;">
-            <div style="background-color: #eee; padding: 20px; position: absolute; right: 0; top: 0;" class="rounded">
+            <div style="background-color: #eee; padding: 12px; position: absolute; right: 0; top: 0;" class="rounded">
                 <strong>For general media inquiries, please contact:</strong><br>
                 <a href="mailto:press@ijetonboard.com">press@ijetonboard.com</a><br>
                 <a href="tel:1-206-832-1250">206.832.1250</a><br>
@@ -81,7 +81,6 @@ EOF;
             </div>
             <ul class="bulleted">
                 <li><a href="#resources">Resources</a></li>
-                <li><a href="#speakers">Available Speakers</a></li>
                 <li><a href="#news">Industry News &amp; Press Releases</a></li>
                 <li><a href="#memberships">Memberships &amp; Affiliations</a></li>
             </ul>
@@ -90,23 +89,15 @@ EOF;
     <section>
         <a name="resources"></a><h2 class="anchor-header">Resources<a href="#top" class="icon-up back">Back to Top</a></h2>
         <ul class="bulleted">
-            <li><a href="<?= BASE_URL ?>static/docs/ijet-company-overview.pdf" target="_blank">Company Overview</a></li>
             <li><a href="<?= BASE_URL ?>about/team.php">Bios</a></li>
             <li><a href="<?= BASE_URL ?>static/resources/iJetLogos.zip">Logos</a></li>
         </ul>
     </section>
     <section>
-        <a name="speakers"></a><h2 class="anchor-header">Available Speakers<a href="#top" class="icon-up back">Back to Top</a></h2>
-        <p>
-            <strong>Reuven Carlyle</strong><br>
-            Topics: Business development, financing, sales, marketing and public policy as it relates to early and mid stage technology companies in the wireless, software and clean energy sectors
-        </p>
-    </section>
-    <section>
         <a name="news"></a><h2 class="anchor-header">Industry News &amp; Press Releases<a href="#top" class="icon-up back">Back to Top</a></h2>
         <ul class="spaced">
             <li>
-                <a name="ceo" href="#ceo" class="toggle-link icon-down">iJet Onboard Names Aviation Veteran Steve Forte as CEO.</a>
+                <a name="ceo" href="#ceo" class="toggle-link icon-down">iJet Onboard Names Aviation Veteran Steve Forte as CEO</a>
                 <div class="toggle-target">
                     "iJet Onboard, a privately held provider of platform-based software services enabling the intelligent aircraft, today announced thirty-year aviation andtechnology veteran Steve Forte will join the company as its Chief ExecutiveOfficer."
                     <p><a href="<?= BASE_URL ?>static/docs/Forte%20press%20release.pdf" target="_blank" class="button">

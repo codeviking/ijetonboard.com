@@ -65,13 +65,13 @@ EOF;
                 </div>
             </li>
             <li>
-                <a name="mike-cary" href="#mike-cary" class="toggle-link icon-down">Mike Carey, Senior Vice President Legal and Business Affairs</a>
+                <a name="mike-cary" href="#mike-cary" class="toggle-link icon-down">Mike Carey, Senior Vice President</a>
                 <div class="toggle-target">
                     Mike is responsible for all aspects of legal, finance, HR and business operations functions, providing oversight, guidance and direction to facilitate the achievement of iJet Onboard's business goals. Mike brings a broad range of experience, having counseled large companies on a multitude of issues including commercial agreements, strategic initiatives, corporate finance, acquisitions and government affairs. Mike was most recently senior legal manager, products and technology at Nintendo, and prior to that was general counsel at Extend America. He also held the position of executive counsel at The Walt Disney Company and was in charge of global legal services for Dell.
                 </div>
             </li>
             <li>
-                <a name="reuvan-carlyle" href="#reuvan-carlyle" class="toggle-link icon-down">Reuvan Carlyle, Vice President of Strategic Development</a>
+                <a name="reuven-carlyle" href="#reuven-carlyle" class="toggle-link icon-down">Reuven Carlyle, Vice President of Strategic Development</a>
                 <div class="toggle-target">
                     Reuven leads the company's external affairs, public policy and government relations efforts. As a serial entrepreneur in the software, wireless and clean energy sectors, Reuven has helped to bring advanced technology solutions to the transportation, military and public safety industries. Reuven is also an elected official in Washington State, serving as a member of the state House of Representatives.
                 </div>
@@ -106,7 +106,7 @@ EOF;
         <h2>Board of Directors</h2>
         <ul class="spaced board">
             <li>William J. Marks, Chairman & Co-Founder</li>
-            <li>Tom Rinderknecht</li>
+            <li>Thomas Rinderknecht</li>
             <li>J.P. Roed</li>
         </ul>
     </section>
