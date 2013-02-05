@@ -19,11 +19,11 @@ EOF;
     $apps = array(
         array(
             'title' => 'APU MONITORING AND REPORTING',
-            'desc'  => 'Eases the management of APU usage, providing real-time alerting and post-use reporting, resulting in substantial annual fuel and manpower savings.'
+            'desc'  => 'The Auxiliary Power Unit (APU) is a turbine engine that starts the aircraft\'s engines, provides air conditioning and electrical power on the ground, and back-up electrical power in flight.  This application eases the management of APU usage providing real-time alerting and post use reporting, resulting in substantial annual fuel and manpower savings.'
         ),
         array(
             'title' => 'AIRCRAFT SYSTEMS PREDICTION, EMULATION AND NOTIFICATION',
-            'desc'  => 'Mirrors and replicates all flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight. Provides en-route notification to Technical Operations of actual and predicted aircraft component failures.  This application facilitates measurable savings in delay minutes, cancellations, and manpower.'
+            'desc'  => 'Detailed real-time aircraft systems and engine operating data is currently limited or not available to ground personnel. This multi-faceted application provides en-route notification to the Technical Operations Center of actual or predicted aircraft component failures.  This application mirrors and replicates available flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight.'
         ),
         array(
             'title' => 'CARBON EMISSIONS AUDITOR',
@@ -47,14 +47,14 @@ EOF;
         <a name="top"></a>
         <h1>Applications</h1>
         <ul class="bulleted">
-            <li><a href="#ijet-built">iJet Built</a></li>
-            <li><a href="#partner-built">Partner Built</a></li>
+            <li><a href="#ijet-built">iJet Developed</a></li>
+            <li><a href="#partner-built">Partner Developed</a></li>
         </ul>
     </section>
     <section>
-        <a name="ijet-built"></a><h2 class="anchor-header">iJet Built<a href="#top" class="icon-up back">Back to Top</a></h2>
+        <a name="ijet-built"></a><h2 class="anchor-header">iJet Developed<a href="#top" class="icon-up back">Back to Top</a></h2>
         <p>
-            iJet leads initial development efforts by delivering a subset of applications that drive key features of the Platform. This provides the foundation for developing our software development kit (SDK) and assisting our application partners in their future development efforts.
+            iJet leads initial development efforts by delivering a set of applications that drive key features of the Platform. 
         </p>
         <ul class="spaced">
         <?php
@@ -66,7 +66,7 @@ EOF;
         </ul>
     </section>
     <section>
-        <a name="partner-built"></a><h2 class="anchor-header">Partner Built<a href="#top" class="icon-up back">Back to Top</a></h2>
+        <a name="partner-built"></a><h2 class="anchor-header">Partner Developed<a href="#top" class="icon-up back">Back to Top</a></h2>
         <p>
             The iJet Platform allows third-party application developers to address airline operational concerns in areas where they have domain expertise. This allows developers to focus on the core functionality of their own applications without the need to construct complex hardware and software systems on the aircraft.
         </p>
